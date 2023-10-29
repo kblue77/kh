@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Khmer",PNN
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="Khmer",Town
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Khmer",MSJ TV
+http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Khmer",CTV 9
+http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Khmer",SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Khmer",TV5
+https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="Khmer",BTV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="Khmer",Bayon
+https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
+
+
+
