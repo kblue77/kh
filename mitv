@@ -1,54 +1,49 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png" group-title="Khmer",Rasmey Hang Meas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8097VD/RHM-HDTV-BEARTV.png" group-title="ខ្មែរ",Rasmey Hang Meas
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w991838590_b1800000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Khmer",Hang Meas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="ខ្មែរ",Hang Meas
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1248009986_b1800000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Khmer",TV5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ",TV5
 https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Khmer",PNN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ",PNN
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="Khmer",Town
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="ខ្មែរ",Town
 https://live.kh.unitysystem.net/live/towntv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Khmer",MSJ TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TilslGU.png" group-title="ខ្មែរ",MSJ TV
 http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Khmer",CTV 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="ខ្មែរ",CTV 9
 http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Khmer",SEATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ខ្មែរ",SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="Khmer",BTV News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="ខ្មែរ",BTV News
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="Khmer",Bayon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ",Bayon
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="Khmer",TVK
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="ខ្មែរ",TVK
 https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk-2-kh.png" group-title="Khmer",TVK2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk-2-kh.png" group-title="ខ្មែរ",TVK2
 https://live.kh.unitysystem.net/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/apsara_tv.png" group-title="Khmer",APSARA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/apsara_tv.png" group-title="ខ្មែរ",APSARA
 https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thai",Channel 3
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1698690065&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=V9ZoWv0DjZ_f1JKc-XSOug
-
-#EXTINF:-1 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thai",Channel 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="ថៃ",Channel 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Thai",Channel 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="ថៃ",Channel 7
 http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
-#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="Thai",Channel 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="ថៃ",Channel 8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
