@@ -41,7 +41,7 @@ https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thai",Channel 3
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1698690065&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=V9ZoWv0DjZ_f1JKc-XSOug
 
 #EXTINF:-1 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thai",Channel 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
