@@ -62,3 +62,15 @@ https://list.iptvcat.com/my_list/s/ba47f56f4a4c7a74476f59578ebad333.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="តុកាតា",Cartoon Network US West
 https://list.iptvcat.com/my_list/s/0be180d61d75ae6b29f56c5dd737db5c.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.ru.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network
+http://moobl.ru/hls/Cartoon_network.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cartoon Network UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.usa.pacific.us.m3u8?checkedby:iptvcat.com
+
