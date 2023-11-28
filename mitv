@@ -54,4 +54,10 @@ http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="ថៃ",Channel 1
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1701202305&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=4b1JzD6rogd3-FmC1YOvIg
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com//images/T/TVB-logo-A02D39B19C-seeklogo.com.png" group-title="ថៃ",TVB
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="បរទេស",Mr.Bean
+http://51.159.104.29:8080/mrbean/index.m3u8
