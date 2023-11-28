@@ -37,6 +37,9 @@ https://live.kh.unitysystem.net/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/apsara_tv.png" group-title="ខ្មែរ",APSARA
 https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="ខ្មែរ",Mr.Bean
+http://51.159.104.29:8080/mrbean/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ខ្មែរ",KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 
@@ -56,32 +59,5 @@ http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com//images/T/TVB-logo-A02D39B19C-seeklogo.com.png" group-title="ថៃ",TVB
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="បរទេស",Mr.Bean
-http://51.159.104.29:8080/mrbean/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/wedobigdocs_red_logo.png" group-title="បរទេស",WeDo Big Stories
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="បរទេស",1
-https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="បរទេស",2
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="បរទេស",3
-https://linear-128.frequency.stream/128/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="បរទេស",4
-https://linear-290.frequency.stream/290/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="បរទេស",5
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="បរទេស",6
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="បរទេស",7
-https://crimetimebamca-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="បរទេស",8
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
