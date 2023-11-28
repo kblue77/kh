@@ -62,5 +62,8 @@ https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="បរទេស",Mr.Bean
 http://51.159.104.29:8080/mrbean/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="បរទេស",NetLink TV
+#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/wedobigdocs_red_logo.png" group-title="បរទេស",WeDo Big Stories
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-01.watch4.com/01/wedobigdocs_red_logo.png" group-title="បរទេស",WeDo Big Stories
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
