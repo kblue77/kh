@@ -61,3 +61,6 @@ https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="បរទេស",Mr.Bean
 http://51.159.104.29:8080/mrbean/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="បរទេស",NetLink TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
