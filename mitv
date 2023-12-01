@@ -41,7 +41,7 @@ https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="ថៃ🇹🇭",TV3🇹🇭
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="ថៃ🇹🇭",TV3🇹🇭
 https://ch3-33-web.cdn.byteark.com/live/playlist_480p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1701449032&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=9XlppXE2m1HyN01KyA6KgQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="ថៃ🇹🇭",TV5🇹🇭
