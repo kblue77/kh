@@ -53,41 +53,15 @@ http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="បរទេស",Mr.Bean🇺🇸
 http://51.159.104.29:8080/mrbean/index.m3u8
-
-#EXTINF:-1,US: Bloomberg TV FHD
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139611
-#EXTINF:-1,US: Boomerang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="បរទេស",Boomerang🇺🇸
 http://splaytv.club:80/toptv/LXlKOP6yYNA00/139612
-#EXTINF:-1,US: Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="បរទេស",Cartoon Network🇺🇸
 http://splaytv.club:80/toptv/LXlKOP6yYNA00/139616
-#EXTINF:-1,US: Cinemax West
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139619
-#EXTINF:-1,US: Cinemax ActionMax East
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139621
-#EXTINF:-1,US: Cinemax HD
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139622
-#EXTINF:-1,US: Cinemax MoreMax
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139624
-#EXTINF:-1,US: Cinemax East
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139627
-#EXTINF:-1,US: Discovery Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="បរទេស",Discovery Channel🇺🇸
 http://splaytv.club:80/toptv/LXlKOP6yYNA00/139631
-#EXTINF:-1,US: Discovery Science
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/800px-Discovery_Science_2017_Logo.svg.png" group-title="បរទេស",Discovery Science🇺🇸
 http://splaytv.club:80/toptv/LXlKOP6yYNA00/139630
-#EXTINF:-1,US: HBO 2
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139652
-#EXTINF:-1,US: HBO HD
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139653
-#EXTINF:-1,US: HBO Signature
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139654
-#EXTINF:-1,US: HBO Zone
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139655
-#EXTINF:-1,US: History Channel
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139657
-#EXTINF:-1,US: National Geographic
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139667
-#EXTINF:-1,US: UFC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="បរទេស",UFC🇺🇸
 http://splaytv.club:80/toptv/LXlKOP6yYNA00/139700
-#EXTINF:-1,US: WWE NETWORK
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/139706
+
 
