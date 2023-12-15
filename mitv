@@ -60,9 +60,9 @@ http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="បរទេស",Mr.Bean🇺🇸
 http://51.159.104.29:8080/mrbean/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="បរទេសs",Cartoon Network1
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="បរទេស",Cartoon Network1
 http://europe3.livetv.az/russia/cartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="បរទេស",Cartoon Network2
+#EXTINF:-1 tvg-id="CartoonNetworkScandinavia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="បរទេស",Cartoon Network2
 #EXTVLCOPT:http-referrer=http://89.254.128.5:22280/
 http://89.254.128.5:22280/cartoon_network/index.m3u8
 
