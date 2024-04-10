@@ -10,6 +10,21 @@ https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png" group-title="ខ្មែរ🇰🇭",Hang Meas Now🇰🇭
+https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctn-kh.png" group-title="ខ្មែរ🇰🇭",CTN🇰🇭
+https://live.happywatch99.com/live/ctn_v$$240211$/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_tv_kh.png" group-title="ខ្មែរ🇰🇭",MYTV🇰🇭
+https://live.happywatch99.com/live/mytv_v$$240211$/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnc_kh.png" group-title="ខ្មែរ🇰🇭",CNC🇰🇭
+https://live.happywatch99.com/live/cnc_news_v$$240211$/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/d-music-kh.png" group-title="ខ្មែរ🇰🇭",D-Music🇰🇭
+https://live.happywatch99.com/live/d_music_v$$240211$/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png" group-title="ខ្មែរ🇰🇭",MSJ TV🇰🇭
 https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
 
@@ -49,8 +64,7 @@ https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75%201x,%20/_next/image?url=%2FNetlinkTV.png" group-title="ខ្មែរ🇰🇭",NetLink🇰🇭
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75%201x,%20/_next/image?url=%2FNetlinkTV.png" group-title="ខ្មែរ🇰🇭",CTN🇰🇭
-https://live.happywatch99.com/live/ctn_v$$240211$/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="ថៃ🇹🇭" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV3🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
