@@ -64,6 +64,9 @@ https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75%201x,%20/_next/image?url=%2FNetlinkTV.png" group-title="ខ្មែរ🇰🇭",NetLink🇰🇭
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 
+#EXTINF:-1 tvg-logo="https://happywatch99.com/assets/global/live_thumb/1398.jpg" group-title="ខ្មែរ🇰🇭",PP Digital TV🇰🇭
+https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="ថៃ🇹🇭" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV3🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
