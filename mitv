@@ -71,7 +71,7 @@ https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/fresh_news.png" group-title="ខ្មែរ🇰🇭",F🇰🇭
-https://wtv.akctv.com.kh:10443/hls/ch123/index.m3u8?userid=12798&token=0a108fbe2f80a728ea8e8e32cc02e2f7
+https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="ថៃ🇹🇭" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV3🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
