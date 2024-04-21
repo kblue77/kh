@@ -70,8 +70,7 @@ https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://happywatch99.com/assets/global/live_thumb/1398.jpg" group-title="ខ្មែរ🇰🇭",PP Digital TV🇰🇭
 https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/fresh_news.png" group-title="ខ្មែរ🇰🇭",F🇰🇭
-https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="ថៃ🇹🇭" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV3🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -84,12 +83,19 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="ថៃ🇹🇭",TV7🇹🇭
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/One_31#/media/File:One_31_Logo.png" group-title="ថៃ🇹🇭",ONE31🇹🇭
+https://live.happywatch99.com/live/thai_one_v$$240211$/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="ថៃ🇹🇭",TV8🇹🇭
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="បរទេស",Mr.Bean🇺🇸
 http://51.159.104.29:8080/mrbean/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="បរទេស",HBO🇺🇸
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8?checkedby:iptvcat.com
+
 
 
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/1015/417/HD-wallpaper-movie-john-wick-chapter-2-john-wick-keanu-reeves.jpg" group-title="ភាគយន្ត🎬",John Wick 2 🎬
