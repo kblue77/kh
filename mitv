@@ -41,7 +41,7 @@ https://live.kh.unitysystem.net/live/tv9.stream/playlist.m3u8
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="ខ្មែរ🇰🇭",BTV News🇰🇭
-https://live.happywatch99.com/live/btv_news_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/btv_news_v$$$/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
