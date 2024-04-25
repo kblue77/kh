@@ -96,6 +96,9 @@ http://51.159.104.29:8080/mrbean/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="បរទេស",HBO🇺🇸
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="បរទេស",Cartoon Network🇺🇸
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/1015/417/HD-wallpaper-movie-john-wick-chapter-2-john-wick-keanu-reeves.jpg" group-title="ភាគយន្ត🎬",John Wick 2 🎬
