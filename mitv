@@ -5,7 +5,16 @@ http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunk
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w390370135_b1800000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5🇰🇭
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",Metfone🇰🇭
 https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5 Digi🇰🇭
+https://stream.mekongtv.net/livetv5/tv5_embed.stream/chunklist_w47476035_tkbXR2c3RhcnR0aW1lPTAmbXR2ZW5kdGltZT0xNzE0NDM4NzAyJm10dmhhc2g9cFhSSHpnRkJwT256UXlQWGFoaXNfTVIwM2tYNERqdGpsaWo3M1ZCRHBXUT0=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",Mekong🇰🇭
+http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1356229299_tkbXR2c3RhcnR0aW1lPTAmbXR2ZW5kdGltZT0xNzE0NDM4NzY4Jm10dmhhc2g9cmVBMkRFN3VVVzZUQXloTzRZTnNReFp1eXFfRnlYUGxSakFpbFpRbjE2OD0=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
 https://cdnmedia.campoolslottery.com/LiveApp/streams/kDotJIi7dAkZrRDF1701682818385.m3u8
