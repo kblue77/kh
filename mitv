@@ -14,7 +14,7 @@ https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 https://cdnmedia.campoolslottery.com/LiveApp/streams/kDotJIi7dAkZrRDF1701682818385.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png" group-title="ខ្មែរ🇰🇭",MSJ TV🇰🇭
-https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
+http://124.248.165.18:1935/live/myStream/chunklist_w1059914678.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="ខ្មែរ🇰🇭",Town🇰🇭
 https://live-evg3.tv360.metfone.com.kh/live/towntv.m3u8
@@ -71,7 +71,7 @@ https://live.happywatch99.com/live/cnc_news_v$$240211$/playlist.m3u8
 https://live.happywatch99.com/live/ctv8_v$$240211$/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/d-music-kh.png" group-title="ខ្មែរ🇰🇭",D-Music🇰🇭
-https://live.happywatch99.com/live/d_music_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/d_music/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="ថៃ🇹🇭" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV3🇹🇭
