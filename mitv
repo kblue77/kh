@@ -85,8 +85,9 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="ថៃ🇹🇭",TV7🇹🇭
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/One_31#/media/File:One_31_Logo.png" group-title="ថៃ🇹🇭",ONE31🇹🇭
-https://live.happywatch99.com/live/thai_one_v$$240211$/playlist.m3u8
+#EXTINF:-1 tvg-id="One31.th" tvg-logo="https://i.imgur.com/VY9OdOu.png" group-title="ថៃ🇹🇭" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",One31🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="ថៃ🇹🇭",TV8🇹🇭
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
