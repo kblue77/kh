@@ -85,7 +85,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="ថៃ🇹🇭",TV7🇹🇭
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
-#EXTINF:-1 tvg-id="One31.th" tvg-logo="https://en.wikipedia.org/wiki/One_31#/media/File:One_31_Logo.png" group-title="ថៃ🇹🇭" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",One31🇹🇭
+#EXTINF:-1 tvg-id="One31.th" tvg-logo="https://i.malimarcdn.com/gmmonev2HDF.jpg" group-title="ថៃ🇹🇭" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",One31🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8
 
