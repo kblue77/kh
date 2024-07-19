@@ -20,7 +20,7 @@ http://124.248.165.18:1935/live/myStream/chunklist_w1059914678.m3u8
 https://live-evg3.tv360.metfone.com.kh/live/towntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="ខ្មែរ🇰🇭",CTV 9🇰🇭
-https://live.kh.unitysystem.net/live/tv9.stream/playlist.m3u8
+https://stream.mekongtv.net/livectv9/ctv9_embed.stream/chunklist_w1248496521_tkbXR2c3RhcnR0aW1lPTAmbXR2ZW5kdGltZT0xNzIxNDc0MjEwJm10dmhhc2g9SEFES1pkY2tNNzMweTBWalR0R1Rrbk9peFVHWDJfWjZoSi1SWnRrWHMzTT0=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ខ្មែរ🇰🇭",SEATV🇰🇭
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
@@ -44,7 +44,7 @@ https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 https://live.kh.unitysystem.net/live/tvk2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/apsara_tv.png" group-title="ខ្មែរ🇰🇭",APSARA🇰🇭
-https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
+https://live.ams.com.kh/app/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75%201x,%20/_next/image?url=%2FNetlinkTV.png" group-title="ខ្មែរ🇰🇭",NetLink🇰🇭
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
