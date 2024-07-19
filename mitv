@@ -44,7 +44,7 @@ https://live.kh.unitysystem.net/live/tvk.stream/playlist.m3u8
 https://live.kh.unitysystem.net/live/tvk2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/apsara_tv.png" group-title="ខ្មែរ🇰🇭",APSARA🇰🇭
-https://live.ams.com.kh/app/stream/playlist.m3u8
+https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75%201x,%20/_next/image?url=%2FNetlinkTV.png" group-title="ខ្មែរ🇰🇭",NetLink🇰🇭
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
