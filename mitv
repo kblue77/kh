@@ -11,7 +11,7 @@ https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
-https://cdnmedia.campoolslottery.com/LiveApp/streams/kDotJIi7dAkZrRDF1701682818385.m3u8
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png" group-title="ខ្មែរ🇰🇭",MSJ TV🇰🇭
 http://124.248.165.18:1935/live/myStream/chunklist_w1059914678.m3u8
