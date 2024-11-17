@@ -13,9 +13,6 @@ https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
-http://203.176.130.123:8989/live/pnn_480k.stream/chunklist_w1529568683_tkbXR2c3RhcnR0aW1lPTAmbXR2ZW5kdGltZT0xNzMxNDAxMzQxJm10dmhhc2g9U0dmN2o4dVdDbHRNaU1vZjRfSDhZSFFuSGYxZGoxRDJuSVh4YnFMa1ZJUT0=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="ខ្មែរ🇰🇭",CTV 8🇰🇭
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 
@@ -37,23 +34,14 @@ https://live-evg3.tv360.metfone.com.kh/live/towntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="ខ្មែរ🇰🇭",CTV 9🇰🇭
 https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="ខ្មែរ🇰🇭",CTV 9🇰🇭
-http://203.176.130.123:8989/live/ctv9hd.stream/chunklist_w372912061_tkbXR2c3RhcnR0aW1lPTAmbXR2ZW5kdGltZT0xNzMxNDAxNDIwJm10dmhhc2g9cDR0Q1pudlVlOERFZjB3REQ5Q0FFWjAtelI3SDhFa29TTGE3cEFjWEdWdz0=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ខ្មែរ🇰🇭",SEATV🇰🇭
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="ខ្មែរ🇰🇭",BTV News🇰🇭
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="ខ្មែរ🇰🇭",BTV News🇰🇭
-http://203.176.130.123:8989/live/bayontv1_480k.stream/chunklist_w341847749_tkbXR2c3RhcnR0aW1lPTAmbXR2ZW5kdGltZT0xNzMxNDAxNTEzJm10dmhhc2g9TGxWc1pMLU1GbDNoM1pUMGIzT041aDNlcjRYR3B6Z1l6UXRjSTZVNXN0UT0=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
-http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_kh.png" group-title="ខ្មែរ🇰🇭",TV3🇰🇭
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
