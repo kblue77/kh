@@ -53,7 +53,7 @@ http://203.176.130.123:8989/live/bayontv1_480k.stream/chunklist_w341847749_tkbXR
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
-http://203.176.130.123:8989/live/bayontv_480k.stream/chunklist_w1458934630_tkbXR2c3RhcnR0aW1lPTAmbXR2ZW5kdGltZT0xNzMxNDAxNDcyJm10dmhhc2g9MElLMnFUUXBPNXRrUjdDWUpRMUNlVkp3eVdJckJUUXZaOWRjYmJybWxiWT0=.m3u8
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_kh.png" group-title="ខ្មែរ🇰🇭",TV3🇰🇭
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
