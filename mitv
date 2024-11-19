@@ -13,6 +13,16 @@ https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1732091330&mtvhash=qvvs8DSi64-lLkl2epUcs7Oyg_kmVMGiB1_o4IbNPIM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
+http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1732091330&mtvhash=qvvs8DSi64-lLkl2epUcs7Oyg_kmVMGiB1_o4IbNPIM=
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="ខ្មែរ🇰🇭",CTV 8🇰🇭
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 
