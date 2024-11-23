@@ -13,10 +13,6 @@ https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
-http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="ខ្មែរ🇰🇭",CTV 8🇰🇭
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 
@@ -44,14 +40,8 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="ខ្មែរ🇰🇭",BTV News🇰🇭
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="ខ្មែរ🇰🇭",BTV News🇰🇭
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
-http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_kh.png" group-title="ខ្មែរ🇰🇭",TV3🇰🇭
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
@@ -86,9 +76,6 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="ថៃ🇹🇭",TV7🇹🇭
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-
-#EXTINF:-1 tvg-id="One31.th" tvg-logo="https://i.malimarcdn.com/gmmonev2HDF.jpg" group-title="ថៃ🇹🇭",One31🇹🇭
-https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="ថៃ🇹🇭",TV8🇹🇭
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
