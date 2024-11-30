@@ -38,10 +38,10 @@ https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="ខ្មែរ🇰🇭",BTV News🇰🇭
-https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
-
+https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_kh.png" group-title="ខ្មែរ🇰🇭",TV3🇰🇭
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
