@@ -5,13 +5,10 @@ http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunk
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w390370135_b1800000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5🇰🇭
-https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5🇰🇭
 https://live-evg13.tv360.metfone.com.kh/live/tv5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
-https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/08/12/14/1723449253598/5ad4ad185c94_480_270.jpg" group-title="ខ្មែរ🇰🇭",ABC🇰🇭
+https://live-evg12.tv360.metfone.com.kh//live/streams/live_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="ខ្មែរ🇰🇭",CTV 8🇰🇭
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
@@ -29,22 +26,13 @@ http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playl
 http://124.248.165.18:1935/live/myStream/chunklist_w1059914678.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="ខ្មែរ🇰🇭",Town🇰🇭
-https://live-evg3.tv360.metfone.com.kh/live/towntv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="ខ្មែរ🇰🇭",CTV 9🇰🇭
-https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
+https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ខ្មែរ🇰🇭",SEATV🇰🇭
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="ខ្មែរ🇰🇭",BTV News🇰🇭
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
-https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_kh.png" group-title="ខ្មែរ🇰🇭",TV3🇰🇭
-https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="ខ្មែរ🇰🇭",Fresh News🇰🇭
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
@@ -61,12 +49,17 @@ https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75%201x,%20/_next/image?url=%2FNetlinkTV.png" group-title="ខ្មែរ🇰🇭",NetLink🇰🇭
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/08/12/14/1723449253598/5ad4ad185c94_480_270.jpg" group-title="ខ្មែរ🇰🇭",ABC🇰🇭
-https://live-evg12.tv360.metfone.com.kh//live/streams/live_2.m3u8
-
 #EXTINF:-1 tvg-logo="http://moinews.gov.kh/upload/1701874205.png" group-title="ខ្មែរ🇰🇭",MOI TV🇰🇭
 http://202.62.56.22:8080/hls/MOITV.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="ខ្មែរ🇰🇭",CTV 9🇰🇭
+https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFL3r4y.jpg" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
+https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="ថៃ🇹🇭",TV3🇹🇭
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
