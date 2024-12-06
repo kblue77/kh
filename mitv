@@ -31,8 +31,6 @@ https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="ខ្មែរ🇰🇭",CTV 9🇰🇭
 https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="ខ្មែរ🇰🇭",Town🇰🇭
-https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ខ្មែរ🇰🇭",SEATV🇰🇭
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
@@ -66,6 +64,9 @@ https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/psntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="ខ្មែរ🇰🇭",Town🇰🇭
+https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
 
 
 
