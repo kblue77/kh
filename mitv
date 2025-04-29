@@ -1,20 +1,32 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5🇰🇭
-https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5🇰🇭
-http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
+https://es2-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/08/12/14/1723449253598/5ad4ad185c94_480_270.jpg" group-title="ខ្មែរ🇰🇭",ABC🇰🇭
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-21/live/streams/live_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/11/25/13/1732517765914/828e496870ef_480_270.jpg" group-title="ខ្មែរ🇰🇭",NTV🇰🇭
-https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png" group-title="ខ្មែរ🇰🇭",MSJ TV🇰🇭
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-15/live/myStream/chunklist_w1478136773.m3u8
 
+#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies.png" group-title="ខ្មែរ🇰🇭",Movie🇰🇭
+https://live-evg3.tv360.metfone.com.kh/live_hq/13_metfone_film/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNTf2r3.png" group-title="ខ្មែរ🇰🇭",Komsan🇰🇭
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2025/02/28/14/1740728168112/980a6dd90a66_480_270.png" group-title="ខ្មែរ🇰🇭",Music🇰🇭
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-31/LiveApp/streams/AGGMusic.tv360.metfone.com.kh.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="ខ្មែរ🇰🇭",Town🇰🇭
-https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-11/LiveApp/streams/TownTVHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="ខ្មែរ🇰🇭",Rasmey Hang Meas🇰🇭
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="ខ្មែរ🇰🇭",Hang Meas
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="ខ្មែរ🇰🇭",CTV 9🇰🇭
 https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
