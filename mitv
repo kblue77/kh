@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5🇰🇭
 https://es2-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pnn_kh.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
+https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
+
 #EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/08/12/14/1723449253598/5ad4ad185c94_480_270.jpg" group-title="ខ្មែរ🇰🇭",ABC🇰🇭
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-21/live/streams/live_2.m3u8
 
@@ -8,7 +11,7 @@ https://es1-p1-netcdn.metfone.com.kh/netcdn-live-21/live/streams/live_2.m3u8
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png" group-title="ខ្មែរ🇰🇭",MSJ TV🇰🇭
-https://es1-p1-netcdn.metfone.com.kh/netcdn-live-15/live/myStream/chunklist_w1478136773.m3u8
+https://es2-p1-netcdn.metfone.com.kh/netcdn-live-15/live/myStream/chunklist_w418612814.m3u8
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies.png" group-title="ខ្មែរ🇰🇭",Movie🇰🇭
 https://live-evg3.tv360.metfone.com.kh/live_hq/13_metfone_film/chunks.m3u8
@@ -52,11 +55,9 @@ https://live.kh.unitysystem.net/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/05/14/1707118392724/741df1c458ad_480_270.jpeg" group-title="ខ្មែរ🇰🇭",APSARA🇰🇭
 https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75%201x,%20/_next/image?url=%2FNetlinkTV.png" group-title="ខ្មែរ🇰🇭",NetLink🇰🇭
-https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="ខ្មែរ🇰🇭",Cartoon🇰🇭
+https://live-evg3.tv360.metfone.com.kh/live_hq/14_metfone_cartoon/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://moinews.gov.kh/upload/1701874205.png" group-title="ខ្មែរ🇰🇭",MOI TV🇰🇭
-http://202.62.56.22:8080/hls/MOITV.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="ថៃ🇹🇭",TV3🇹🇭
@@ -70,13 +71,6 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="ថៃ🇹🇭",TV8🇹🇭
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="បរទេស",Mr.Bean🇺🇸
-http://4805885.v.lapqu.xyz/live/Kujtimdaim/6842D316D01D/1014437.m3u8?token=SxAKVEBaQ14XVwRVUVRVDgdVAlUCAlAHVlJTUgBUXw9TVFADBwADVFYTHBNGEEFcBQhpWAASCFMFAAVQClFKFEVBB0dsWwVGDxMECQVRCwFRRxoTEFlfBxcLAUgbFg9SEghADQsKWVYEExwTUBxHXBYLV107VFcUXFJURgMIE1pcHkBaXW0FAVhQXlUXXhEJRkkUWBdAEFhbRF0IFUQEX0RAA0FWEFtGAgEEExlGUFYRC0JDHRIIQH55E0gbAx5CVVwRXFxcQ14XXANEDUYfGw0WaUMBQ0YQUFBcAUtEXBQAEE4XXlMZO1ZeXl9QB0dQCwtFE14SA0AZE1wLVw8SWUJtElxXEFtGBwgGBANVCxsZ
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="បរទេស",Cartoon Network🇺🇸
-https://live-evg3.tv360.metfone.com.kh/live_hq/14_metfone_cartoon/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/1015/417/HD-wallpaper-movie-john-wick-chapter-2-john-wick-keanu-reeves.jpg" group-title="ភាគយន្ត🎬",John Wick 2 🎬
