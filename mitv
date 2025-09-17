@@ -14,7 +14,7 @@ http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
 https://p1-es1-netcdn.metfone.com.kh/netcdn-live-15/live/myStream/chunklist_w469627943.m3u8
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies.png" group-title="ខ្មែរ🇰🇭",Movie🇰🇭
-https://p1-es1-netcdn.metfone.com.kh/netcdn-live-53/live_hq/13_metfone_film/chunks.m3u8
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-53/live_hq/13_metfone_film/chunks.m3u8?timestamp=1758143583&uid=49721&token=3f3f0a44ace38c905ed731189e5ae143
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="ខ្មែរ🇰🇭",Town🇰🇭
 https://p1-es2-netcdn.metfone.com.kh/netcdn-live-96/hls/hd-live.m3u8
