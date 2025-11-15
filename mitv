@@ -1,32 +1,17 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5🇰🇭
-https://p1-es2-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
+https://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pnn_kh.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
-https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/08/12/14/1723449253598/5ad4ad185c94_480_270.jpg" group-title="ខ្មែរ🇰🇭",ABC🇰🇭
-http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_8_kh.png" group-title="ខ្មែរ🇰🇭",CTV8🇰🇭
+https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/11/25/13/1732517765914/828e496870ef_480_270.jpg" group-title="ខ្មែរ🇰🇭",NTV🇰🇭
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/msj_tv_kh.png" group-title="ខ្មែរ🇰🇭",MSJ TV🇰🇭
-https://p1-es1-netcdn.metfone.com.kh/netcdn-live-15/live/myStream/chunklist_w469627943.m3u8
-
-#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies.png" group-title="ខ្មែរ🇰🇭",Movie🇰🇭
-https://p1-es1-netcdn.metfone.com.kh/netcdn-live-53/live_hq/13_metfone_film/chunks.m3u8?timestamp=1758143583&uid=49721&token=3f3f0a44ace38c905ed731189e5ae143
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nygURcL.jpg" group-title="ខ្មែរ🇰🇭",Town🇰🇭
-https://p1-es2-netcdn.metfone.com.kh/netcdn-live-96/hls/hd-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="ខ្មែរ🇰🇭",Rasmey Hang Meas🇰🇭
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="ខ្មែរ🇰🇭",Hang Meas
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="ខ្មែរ🇰🇭",CTV 9🇰🇭
-https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ខ្មែរ🇰🇭",SEATV🇰🇭
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
