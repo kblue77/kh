@@ -4,6 +4,15 @@ https://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/chun
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pnn_kh.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
 https://live.happywatch99.com/livehdtv3/133e5914add5b563a564b6cc8a5dc236.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-news-kh.png" group-title="ខ្មែរ🇰🇭",BTV🇰🇭
+https://live.happywatch99.com/livehd5/a5bc5efaffe02afb1b1eb3ad6cbfcf32.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayon_tv.png" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
+https://live.happywatch99.com/livehd4/f780844f4ef31de758920c9eb47b8157.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/11/18/11/1731904787957/c312928b2c77_480_270.jpg" group-title="ខ្មែរ🇰🇭",Town🇰🇭
+https://live.happywatch99.com/livehd23/55a9eb1a273ef5cdb8a80eb9b6c711a0.sdp/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_8_kh.png" group-title="ខ្មែរ🇰🇭",CTV8🇰🇭
 https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/chunks.m3u8
 
