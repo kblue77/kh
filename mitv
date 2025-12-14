@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5🇰🇭
 https://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pnn_kh.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
+https://live.happywatch99.com/livehdtv3/133e5914add5b563a564b6cc8a5dc236.sdp/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_8_kh.png" group-title="ខ្មែរ🇰🇭",CTV8🇰🇭
 https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/chunks.m3u8
 
@@ -20,10 +23,10 @@ https://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/chun
 https://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="ខ្មែរ🇰🇭",Rasmey Hang Meas🇰🇭
-https://live.happywatch99.com/livehdtv3/133e5914add5b563a564b6cc8a5dc236.sdp/chunks.m3u8
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="ខ្មែរ🇰🇭",Hang Meas
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+https://live.happywatch99.com/livehd6/c5e2eea6f82ee2f37dd9e8690297446b.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ខ្មែរ🇰🇭",SEATV🇰🇭
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
