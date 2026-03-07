@@ -1,20 +1,23 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ខ្មែរ🇰🇭",TV5🇰🇭
-https://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/chunks.m3u8
+https://live.happywatch99.com/tv5kh/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pnn_kh.png" group-title="ខ្មែរ🇰🇭",PNN🇰🇭
-https://live.happywatch99.com/livehdtv3/133e5914add5b563a564b6cc8a5dc236.sdp/chunks.m3u8
+https://live.happywatch99.com/pnnhdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-news-kh.png" group-title="ខ្មែរ🇰🇭",BTV🇰🇭
-https://live.happywatch99.com/livehd5/a5bc5efaffe02afb1b1eb3ad6cbfcf32.sdp/chunks.m3u8
+https://live.happywatch99.com/btv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayon_tv.png" group-title="ខ្មែរ🇰🇭",Bayon🇰🇭
-https://live.happywatch99.com/livehd4/f780844f4ef31de758920c9eb47b8157.sdp/chunks.m3u8
+https://live.happywatch99.com/bayon/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/11/18/11/1731904787957/c312928b2c77_480_270.jpg" group-title="ខ្មែរ🇰🇭",Town🇰🇭
-https://live.happywatch99.com/livehd23/55a9eb1a273ef5cdb8a80eb9b6c711a0.sdp/chunks.m3u8
+https://live.happywatch99.com/townfullhdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_8_kh.png" group-title="ខ្មែរ🇰🇭",CTV8🇰🇭
-https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/chunks.m3u8
+https://live.happywatch99.com/ctv8/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_8_kh.png" group-title="ខ្មែរ🇰🇭",CTV8🇰🇭
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-112/memfs/47b28512-eadc-4698-a9e7-1d8d16168b0f_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/11/25/13/1732517765914/828e496870ef_480_270.jpg" group-title="ខ្មែរ🇰🇭",NTV🇰🇭
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
@@ -23,19 +26,19 @@ http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
 http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctn-kh.png" group-title="ខ្មែរ🇰🇭",CTN🇰🇭
-https://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/chunks.m3u8
+https://live.happywatch99.com/ctn/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_tv_kh.png" group-title="ខ្មែរ🇰🇭",MYTV🇰🇭
-https://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/chunks.m3u8
+https://live.happywatch99.com/mytv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnc-kh.png" group-title="ខ្មែរ🇰🇭",CNC🇰🇭
-https://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/chunks.m3u8
+https://live.happywatch99.com/cnc/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="ខ្មែរ🇰🇭",Rasmey Hang Meas🇰🇭
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="ខ្មែរ🇰🇭",Hang Meas
-https://live.happywatch99.com/livehd6/c5e2eea6f82ee2f37dd9e8690297446b.sdp/chunks.m3u8
+https://live.happywatch99.com/hangmeas/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="ខ្មែរ🇰🇭",SEATV🇰🇭
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
